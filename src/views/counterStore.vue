@@ -6,6 +6,8 @@
       <router-link to="/ex4">Exercise 4</router-link>
       <router-link to="/ex5">Exercise 5</router-link>
     </nav>
+
+    
   <!-- Exercise 1: Counter Store -->
   <div class="card">
     <h1 class="text">Exercise 1: Counter Store</h1>
@@ -19,6 +21,8 @@
       </div>
     </div>
   </div>
+
+
   <div class="description">
     <h3>✅ Exercise 1: Counter Store</h3>
     <p><strong>State:</strong> count</p>

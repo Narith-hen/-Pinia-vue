@@ -1,8 +1,3 @@
-// import { useCounterStore } from '@/stores/counterStore'
-// import { useShopingCartStore } from '@/stores/ShoppingCartStore'
-// import { useThemeStore } from '@/stores/themeStore'
-// import { useTodoStore } from '@/stores/todoStore'
-// import { userStore } from '@/stores/userStore'
 import { createRouter, createWebHistory } from 'vue-router'
 
 import CounterStore from '@/views/counterStore.vue'
@@ -12,10 +7,7 @@ import TodoStore from '@/views/todoStore.vue'
 import UserStore from '@/views/userStore.vue'
 import ThemeStore from '@/views/themeStore.vue'
 import App from '@/App.vue'
-// import UserStore from '@/views/userStore.vue'
-// import TodoStore from '@/views/todoStore.vue'
-// import ShoppingCartStore from '@/views/shoppingCartStore.vue'
-// import ThemeStore from '@/views/themeStore.vue'
+
 
 const routes = [
   {
